@@ -34,11 +34,7 @@ students become influential tech leaders, driving innovation and change on a glo
 scale</p>
             </div>
             </div>
-         </div>
-             
-            
-            
-             
+         </div>  
         </div>
     );
 };
