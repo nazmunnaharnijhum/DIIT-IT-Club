@@ -1,0 +1,5 @@
+.featured-item {
+    background-image: url('https://i.ibb.co/QCRmSTN/2-E7-A0019-Copy-Copy.jpg');
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    background-size: cover; /* Ensures the background image covers the entire container */
+}
