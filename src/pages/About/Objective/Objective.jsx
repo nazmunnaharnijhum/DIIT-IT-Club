@@ -5,50 +5,28 @@ const Objective = () => {
     <section>
       <Cover img="https://i.ibb.co/chGDqqS/2E7A0731.jpg"  title="Our Objective" />
       
-      <div className="scrollable-content font-semibold">
+      <div className=" text-2xl  font-semibold">
         <h2 className="text-4xl text-green-500 font-bold text-center mt-16 mb-10">Objetive of DIIT IT Club</h2>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. In deleniti nobis eum dignissimos placeat veritatis repellat animi nostrum corrupti. Accusantium quisquam magnam nihil commodi, labore officiis similique dignissimos illum doloremque dicta nulla optio aliquid voluptas. Adipisci tenetur quia eius saepe eos, velit cupiditate doloribus alias, nesciunt vero veritatis expedita sapiente.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, atque debitis nulla enim dolor magni deleniti! Inventore deserunt nemo voluptates amet cum voluptatibus facere! Suscipit dolor pariatur tempore fuga amet aut vero esse ipsam enim quod nihil rem quasi, asperiores assumenda dicta at! Unde alias voluptate obcaecati tenetur ex odio.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint nulla corporis fuga id vitae nobis maiores? Minus cumque, in quasi sequi corporis error ipsa asperiores nemo mollitia illo modi est, tenetur inventore sit molestias? Dolorum sequi autem, exercitationem nemo porro cupiditate explicabo corporis consequuntur ducimus error voluptatibus fugiat placeat quasi.
-        </p>
+        <p className="my-4">
+        <span className="text-2xl font-semibold text-green-500">Encourage Innovation:</span> Through hackathons and coding challenges, we aim to
+inspire students to think creatively and develop innovative solutions to real-world
+problems.</p>
+<p className="mb-4"><span className="text-2xl font-semibold text-green-500">Enhance Technical Skills:</span> Workshops led by industry experts will provide hands-on
+experience with cutting-edge tools and technologies, enhancing students technical
+competencies.</p>
+<p className="mb-4"><span className="text-2xl font-semibold text-green-500">Facilitate Industry Connections:</span> Seminars and talks by IT industry leaders will bridge
+the gap between academic knowledge and practical applications, encouraging
+students to explore potential career paths.</p>
+<p className="mb-4"><span className="text-2xl font-semibold text-green-500">Promote Collaboration:</span> Collaborative activities and competitions will foster
+teamwork and collaboration, essential skills for success in the technology sector.</p>
+<p className="mb-4"><span className="text-2xl font-semibold text-green-500">Networking Opportunities:</span> The event will provide networking opportunities for
+students to connect with peers, mentors, and potential employers, fostering valuable
+relationships.</p>
+<p><span className="text-2xl font-semibold text-green-500">Recognize and Celebrate Talent:</span> The IT Fest will serve as a platform for students to
+showcase their projects and ideas, fostering healthy competition and acknowledging
+their achievements.</p>
+        
+        
       </div>
     </section>
   );
